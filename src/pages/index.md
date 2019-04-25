@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Ya se que te gusta el cafe
+title: Ya se que te gusta el cafe s
 image: /img/priscilla-du-preez-318414-unsplash.jpg
 heading: as
 subheading: Hola pe
